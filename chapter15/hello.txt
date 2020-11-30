@@ -1,0 +1,4 @@
+Hi. My name is Tunde Muhamed.
+I have been able to open this file, hello.txt
+in a subprocess.Popen() function.
+I am finally happy to read its contents. hello world
